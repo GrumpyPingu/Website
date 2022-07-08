@@ -70,6 +70,11 @@ const TranslationList = () => {
       icon: '🇷🇺'
     },
     {
+      lang: 'sv-SE',
+      available: false,
+      icon: '🇸🇪'
+    },
+    {
       lang: 'sr-SP',
       available: true,
       icon: '🇷🇸'
